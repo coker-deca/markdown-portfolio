@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Tosin Coker Profile
+##Learning the Markdown syntax
+###Another header
